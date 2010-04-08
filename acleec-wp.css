@@ -1,0 +1,36 @@
+.acleec-more {
+	padding: 2px 5px 2px 5px;
+	background: #ddddff;
+	font-size: smaller;
+	min-height: 28px;
+	margin: 0;
+}
+
+.acleec-donate {
+	padding: 2px 5px 2px 5px;
+	background: #ddffdd;
+	font-size: smaller;
+	min-height: 28px;
+	margin: 0;
+}
+
+.acleec-paid {
+	margin: 5px 0px 5px 0px;
+	color: #336633;
+	font-size: smaller;
+}
+
+.acleec-error {
+	margin: 5px 0px 5px 0px;
+	color: #883333;
+	font-size: smaller;
+}
+
+.acleec-thankyou {
+	display: block;
+	background: #ddffdd;
+	color: darkred;
+	margin: 5px 0px 5px 0px;
+	padding: 5px 5px 5px 5px;
+	font-size: medium;
+}
